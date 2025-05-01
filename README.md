@@ -22,7 +22,7 @@ KEY INSIGHTS FROM DASHBOARD:
 Gender: Male employee have higher attrition rates.
 Department: The Research and Developement department faced the maximum attrition noted as 56.12%
 Employee count: Maximum number of employees are from the age group of 27-36
-Job Role Satisfaction: Laboratory Technician, Research Scientist and Sales Executive are the most satifacted job roles.
+Job Role Satisfaction: Laboratory Technician, Research Scientist and Sales Executive are the most satified job roles.
 Education Field: Life Sciences has the maximum number of attrition i.e 89.
 
 FEATURE:
